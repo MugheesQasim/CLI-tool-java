@@ -6,10 +6,6 @@ import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) {
-        for(String arg:args)
-        {
-            System.out.println(arg);
-        }
         System.out.println("CLI tool made by Mughees Qasim");
         if(args.length!=2)
         {
